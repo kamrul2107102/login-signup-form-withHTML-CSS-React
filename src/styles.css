@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list-group {
+  background-color: aquamarine;
+}
+body {
+  background: linear-gradient(#2a00b7, #7e63d7, #783cd1);
+}
